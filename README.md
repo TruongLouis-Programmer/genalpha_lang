@@ -120,4 +120,5 @@ Make your `.py` files full of Gen Alpha code and call `alphaRun(open("myfile.py"
 
 ## 🧑‍💻 Author
 
-Made by [Minh Huy (a.k.a Louis)]
+Made by Trương Minh Huy (a.k.a Louis)
+Contact: 0902555923 (+84 VN)
