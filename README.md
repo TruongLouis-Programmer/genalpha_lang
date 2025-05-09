@@ -114,15 +114,7 @@ Make your `.py` files full of Gen Alpha code and call `alphaRun(open("myfile.py"
 
 ## 📣 Spread the Vibe
 
-* Share this with your squad
-* Make a TikTok showing Gen Alpha code in action
-* Pull requests welcome, no cap 🔥
-
 ---
-
-## 📜 License
-
-MIT. You can vibe with it freely.
 
 ---
 
